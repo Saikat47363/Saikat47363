@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World!%20I'm%20Firoz&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQE0tGkVRSPBaA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1691074043684?e=1793836800&v=beta&t=0Li1e26Fqlyl6bN-tYNmlcKbKtgMBIgj4Di47fmxrIc" 
+       alt="MD. Firoz Mahmud Saikat" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 4px solid #36BCF7; object-fit: cover;" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20MD.%20Firoz%20Mahmud%20Saikat&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh 🇧🇩</h3>
@@ -14,10 +21,10 @@
   <br/>
 
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/md-firoz-mahmud-saikat" target="_blank">
+  <a href="https://www.linkedin.com/in/md-firoz-mahmud-saikat-2838a5246/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mdfirozmahmudsaiakat@gmail.com">
+  <a href="mailto:firozmahmudsaiakat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Saikat47363">
@@ -43,7 +50,7 @@
 - 💼 **Experience:** Former Front-End Developer Intern at Lighthouse Business Consulting Limited.
 - 🌱 **Currently Exploring:** Advanced .NET Core architectures and Cloud technologies.
 - 💡 **Interests:** Building REST APIs, Database-driven software, and responsive web applications.
-- 📫 **Reach me at:** [mdfirozmahmudsaiakat@gmail.com](mailto:mdfirozmahmudsaiakat@gmail.com)
+- 📫 **Reach me at:** [firozmahmudsaiakat@gmail.com](mailto:firozmahmudsaiakat@gmail.com)
 
 <br/>
 
